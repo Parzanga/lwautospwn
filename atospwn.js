@@ -23,7 +23,7 @@ function start() {
 	let fltMsg = document.createElement("div");
 	fltMsg.className = "gameMenu";
 	fltMsg.id = "spawnText";
-	fltMsg.innerHTML = "AutoSpawn Disabled";
+	fltMsg.innerHTML = "AutoSpawn Disabled PLEASE THIS SHOULD WORK ПРОШУ ВАС БОГИ ЕБАНЫЕ";
 	document.body.appendChild(fltMsg);
 	fltMsg = document.createElement("div");
 	fltMsg.className = "gameMenu";
