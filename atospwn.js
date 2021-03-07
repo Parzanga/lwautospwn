@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        ! LostWorld AutoSpawn
 // @namespace   ! LostWorld AutoSpawn
-// @version     2.1
+// @version     2.2
 // @description самая конченная залупа которую можно было придумать
 // @author      Murka
 // @downloadURL https://raw.githubusercontent.com/Parzanga/lwautospwn/main/atospwn.js
