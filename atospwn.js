@@ -4,8 +4,8 @@
 // @version     2.1
 // @description самая конченная залупа которую можно было придумать
 // @author      Murka
-// @downloadURL https://github.com/Parzanga/lwautospwn/raw/main/atospwn.js
-// @updateURL   https://github.com/Parzanga/lwautospwn/raw/main/atospwn.js
+// @downloadURL https://raw.githubusercontent.com/Parzanga/lwautospwn/main/atospwn.js
+// @updateURL   https://raw.githubusercontent.com/Parzanga/lwautospwn/main/atospwn.js
 // @match       *://lostworld.io/*
 // @match       http://149.28.108.169:4444/
 // @icon        http://lostworld.io/img/icon/logo.png
