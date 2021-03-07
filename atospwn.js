@@ -3,8 +3,8 @@
 // @version 2.1
 // @match *://lostworld.io/*
 // @match http://149.28.108.169:4444/
-// @downloadURL https://github.com/Parzanga/lwautospwn/raw/bbe8f8f880545e873386bbc796d34143b7a6d52b/gag.txt
-// @updateURL https://github.com/Parzanga/lwautospwn/raw/bbe8f8f880545e873386bbc796d34143b7a6d52b/gag.txt
+// @downloadURL https://github.com/Parzanga/lwautospwn/raw/main/atospwn.js
+// @updateURL https://github.com/Parzanga/lwautospwn/raw/main/atospwn.js
 // ==/UserScript==
 
 "use strict";
