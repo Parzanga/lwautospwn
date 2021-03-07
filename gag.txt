@@ -1,3 +1,12 @@
+// ==UserScript==
+// @name ! LostWorld AutoSpawn
+// @version 1.1
+// @match *://lostworld.io/*
+// @match http://149.28.108.169:4444/
+// @updateURL https://raw.githubusercontent.com/Parzanga/LWAutoSpawn/main/gag.txt
+// @downloadURL https://raw.githubusercontent.com/Parzanga/LWAutoSpawn/main/gag.txt
+// ==/UserScript==
+
 "use strict";
 start();
 function start() {
